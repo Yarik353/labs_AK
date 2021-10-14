@@ -14,3 +14,9 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+float Calculator::Div (double a, double b)
+{
+	float result = a / b
+    return result;
+}
